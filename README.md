@@ -59,7 +59,10 @@ If you use this code or model in your research, please cite our paper:
     author = {Zhang, Wenhao and Ramezani, Ramin and Han, Tao and Hwang, Kai and Guo, Minyi},
     title = {polyDAG: Polynomial Acyclicity Constraints for Efficient Continuous Causal Discovery in Visual Semantic Graphs},
     year = {2026},
-    journal = {The Visual Computer}
+    journal = {The Visual Computer},
+    archivePrefix = {arXiv},
+    arxivId = {2606.06908},
+    url = {https://arxiv.org/pdf/2606.06908}
 }
 ```
 
